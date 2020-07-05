@@ -19,4 +19,4 @@ we aimed to create a stronger bond between plants and humans. We believed that b
 ![demo](demo.gif)
 
 ## Credits
-This project was done during a specialization course in Designing Interactions at the IT University in Copenhagen (2019) in collaboration with Asbjørn Mejlvang, Gerd Geleff Nielsen and Simon Skjoldmose Hansen.
+This project was done during a specialization course in Designing Interactions at the IT University of Copenhagen (2019) in collaboration with Asbjørn Mejlvang, Gerd Geleff Nielsen and Simon Skjoldmose Hansen.
